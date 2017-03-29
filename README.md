@@ -1,2 +1,2 @@
 # git-github
-Introduction to git and github
+Introduction to git and github (practice purpose)
